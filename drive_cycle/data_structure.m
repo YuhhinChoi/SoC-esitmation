@@ -1,6 +1,0 @@
-deg25_Voltage = [deg25_Cycle_1.meas.Voltage ; deg25_Cycle_2.meas.Voltage ; deg25_Cycle_3.meas.Voltage ; deg25_Cycle_4.meas.Voltage ; deg25_HWFTa.meas.Voltage ; deg25_LA92.meas.Voltage ; deg25_HWFTb.meas.Voltage ; deg25_NN.meas.Voltage ; deg25_UDDS.meas.Voltage ; deg25_US06.meas.Voltage];
-deg25_Current = [deg25_Cycle_1.meas.Current ; deg25_Cycle_2.meas.Current ; deg25_Cycle_3.meas.Current ; deg25_Cycle_4.meas.Current ; deg25_HWFTa.meas.Current ; deg25_LA92.meas.Current ; deg25_HWFTb.meas.Current ; deg25_NN.meas.Current ; deg25_UDDS.meas.Current ; deg25_US06.meas.Current];
-deg25_Battery_Temp_degC = [deg25_Cycle_1.meas.Battery_Temp_degC ; deg25_Cycle_2.meas.Battery_Temp_degC ; deg25_Cycle_3.meas.Battery_Temp_degC ; deg25_Cycle_4.meas.Battery_Temp_degC ; deg25_HWFTa.meas.Battery_Temp_degC ; deg25_LA92.meas.Battery_Temp_degC ; deg25_HWFTb.meas.Battery_Temp_degC ; deg25_NN.meas.Battery_Temp_degC ; deg25_UDDS.meas.Battery_Temp_degC ; deg25_US06.meas.Battery_Temp_degC];
-input = [deg25_Voltage deg25_Current deg25_Battery_Temp_degC];
-
-deg25_Ah = [deg25_Cycle_1.meas.Ah ; deg25_Cycle_2.meas.Ah ; deg25_Cycle_3.meas.Ah ; deg25_Cycle_4.meas.Ah ; deg25_HWFTa.meas.Ah ; deg25_LA92.meas.Ah ; deg25_HWFTb.meas.Ah ; deg25_NN.meas.Ah ; deg25_UDDS.meas.Ah ; deg25_US06.meas.Ah];
